@@ -61,6 +61,5 @@ I am passionate about strengthening systems against modern cyber threats and res
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zabed%20Ullah%20Poyel-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/zabed-ullah-poyel-a312b039b)
 [![Website](https://img.shields.io/badge/Website-zabedullahpoyel.netlify.app-00D9FF?logo=netlify&logoColor=white&style=for-the-badge)](https://zabedullahpoyel.netlify.app)
 [![YouTube](https://img.shields.io/badge/YouTube-XploitPoy777-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@XploitPoy777)
-
-
+[![Medium](https://img.shields.io/badge/Medium-zabedullahpoyel-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@zabedullahpoyel)
 
