@@ -6,7 +6,6 @@
 🚩 CTF Player • Bug Bounty Hunter
 </p>
 
----
 
 ## 🧠 About Me
 
