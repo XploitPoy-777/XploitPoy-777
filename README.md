@@ -52,6 +52,20 @@ I am passionate about strengthening systems against modern cyber threats and res
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XploitPoy-777&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=Contribution%20Activity" width="850" height="300" alt="Contribution Graph"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/0xSaikat/0xSaikat/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+<br>
+<br>
+
+</div>
+
 
 
 ### 🔗 Connect & Follow
