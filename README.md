@@ -2,7 +2,7 @@
 <h3 align="center">Red Teamer | Penetration Tester | Security Researcher</h3>
 
 <p align="center">
-Web • API • Network • AWS • AI/LLM Security <br>
+Web • API • Network <br>
 CTF Player • Bug Bounty Hunter • LPT Master
 </p>
 
@@ -10,7 +10,7 @@ CTF Player • Bug Bounty Hunter • LPT Master
 
 I am a **Red Teamer and Penetration Tester** specializing in securing modern applications and infrastructure.
 
-My expertise includes **Web, API, Network, AWS Cloud and AI/LLM application security**, with real-world experience finding critical vulnerabilities at organizations including **NASA, Amazon, Stanford University, RMIT University and MTM Group** through active bug bounty research on HackerOne and Bugcrowd.
+My expertise includes **Web, API, Network security**, with real-world experience finding critical vulnerabilities at organizations including **NASA, Amazon, Stanford University, RMIT University and MTM Group** through active bug bounty research on HackerOne and Bugcrowd.
 
 I hold the **Licensed Penetration Tester (LPT) Master** and **CPENT v2** certifications from EC-Council, and I'm passionate about strengthening systems against modern threats — including researching **prompt injection & LLM security vulnerabilities**.
 
