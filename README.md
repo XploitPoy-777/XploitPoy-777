@@ -47,13 +47,6 @@ I hold the **Licensed Penetration Tester (LPT) Master** and **CPENT v2** certifi
 🎯 BCS ICT FEST 2025 — 24th  
 🏅 Participated in 20+ CTF competitions  
 
-## 🔬 Current Interests
-
-- AI/LLM Security & Prompt Injection Research  
-- Advanced Red Team Techniques  
-- Bug Bounty & Vulnerability Research  
-- Cloud (AWS) Penetration Testing  
-
 <div align="center">
 
 ### 🔥 Contribution Streak
