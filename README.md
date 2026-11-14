@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm XploitPoy-777</h1>
-<h3 align="center">Red Teamer | Penetration Tester | Security Researcher</h3>
+<h3 align="center">Security Researcher</h3>
 
 <p align="center">
   Web Application Security • API Security • Network Security<br>
